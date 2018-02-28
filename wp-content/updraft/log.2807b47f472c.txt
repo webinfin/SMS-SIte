@@ -1,0 +1,421 @@
+0000.000 (0) Opened log file at time: Sun, 18 Feb 2018 05:55:32 +0000 on http://182.71.92.58/client_demo/smslocal/latestsmslocal
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.33 (apache2handler, Linux backup.infintech.com 2.6.32-696.18.7.el6.x86_64 #1 SMP Thu Jan 4 17:31:22 UTC 2018 x86_64) MySQL: 5.5.59 WPLANG: en_US Server: Apache/2.2.15 (CentOS) safe_mode: 0 max_execution_time: 900 memory_limit: 4096M (used: 64.2M | 65.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 11201.6 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.006 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.020 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1518800957, seconds_ago=132375)
+0000.023 (0) Set semaphore last lock (fd) time to 2018-02-18 05:55:32
+0000.023 (0) Semaphore lock (fd) complete
+0000.027 (0) Backup run: resumption=0, nonce=2807b47f472c, begun at=1518933332 (0s ago), job type=backup
+0000.029 (0) Scheduling a resumption (1) after 300 seconds (1518933632) in case this run gets aborted
+0000.048 (0) Checking if we have a zip executable available
+0000.049 (0) Testing: /usr/bin/zip
+0000.103 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.104 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.105 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.106 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.107 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.114 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.115 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.172 (0) Working binary zip found: /usr/bin/zip
+0000.174 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.175 (0) Creation of backups of directories: beginning
+0000.177 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.468 (0) Total entities for the zip file: 907 directories, 6436 files (0 skipped as non-modified), 80.9 MB
+0000.473 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.476 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.480 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.484 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.487 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.488 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.7 MB, 6436 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.094 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: size is now: 4.50 MB
+0002.100 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 600 files added (on-disk size: 4640.7 KB)
+0002.103 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 700 files added (on-disk size: 4640.7 KB)
+0002.107 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 800 files added (on-disk size: 4640.7 KB)
+0002.111 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 900 files added (on-disk size: 4640.7 KB)
+0002.114 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1000 files added (on-disk size: 4640.7 KB)
+0002.115 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.2 MB, 6436 files batched, 501 (1002) added so far); re-opening (prior size: 4640.7 KB)
+0002.729 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: size is now: 5.50 MB
+0002.738 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1100 files added (on-disk size: 5642.1 KB)
+0002.745 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1200 files added (on-disk size: 5642.1 KB)
+0002.748 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1300 files added (on-disk size: 5642.1 KB)
+0002.752 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1400 files added (on-disk size: 5642.1 KB)
+0002.756 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1500 files added (on-disk size: 5642.1 KB)
+0002.756 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 6436 files batched, 501 (1503) added so far); re-opening (prior size: 5642.1 KB)
+0003.652 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: size is now: 7.20 MB
+0003.662 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1600 files added (on-disk size: 7385.9 KB)
+0003.666 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1700 files added (on-disk size: 7385.9 KB)
+0003.670 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1800 files added (on-disk size: 7385.9 KB)
+0003.674 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 1900 files added (on-disk size: 7385.9 KB)
+0003.677 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2000 files added (on-disk size: 7385.9 KB)
+0003.678 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.3 MB, 6436 files batched, 501 (2004) added so far); re-opening (prior size: 7385.9 KB)
+0004.316 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: size is now: 9.20 MB
+0004.326 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2100 files added (on-disk size: 9469.1 KB)
+0004.332 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2200 files added (on-disk size: 9469.1 KB)
+0004.339 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2300 files added (on-disk size: 9469.1 KB)
+0004.345 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2400 files added (on-disk size: 9469.1 KB)
+0004.348 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2500 files added (on-disk size: 9469.1 KB)
+0004.349 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.9 MB, 6436 files batched, 501 (2505) added so far); re-opening (prior size: 9469.1 KB)
+0004.873 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2600 files added (on-disk size: 10805.6 KB)
+0004.880 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2700 files added (on-disk size: 10805.6 KB)
+0004.885 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2800 files added (on-disk size: 10805.6 KB)
+0004.889 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 2900 files added (on-disk size: 10805.6 KB)
+0004.892 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3000 files added (on-disk size: 10805.6 KB)
+0004.893 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.2 MB, 6436 files batched, 501 (3006) added so far); re-opening (prior size: 10805.6 KB)
+0005.739 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3100 files added (on-disk size: 12834.8 KB)
+0005.745 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3200 files added (on-disk size: 12834.8 KB)
+0005.749 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3300 files added (on-disk size: 12834.8 KB)
+0005.752 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3400 files added (on-disk size: 12834.8 KB)
+0005.756 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3500 files added (on-disk size: 12834.8 KB)
+0005.757 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 6436 files batched, 501 (3507) added so far); re-opening (prior size: 12834.8 KB)
+0006.381 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3600 files added (on-disk size: 14244 KB)
+0006.386 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3700 files added (on-disk size: 14244 KB)
+0006.390 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3800 files added (on-disk size: 14244 KB)
+0006.394 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 3900 files added (on-disk size: 14244 KB)
+0006.397 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4000 files added (on-disk size: 14244 KB)
+0006.398 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.6 MB, 6436 files batched, 501 (4008) added so far); re-opening (prior size: 14244 KB)
+0007.367 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4100 files added (on-disk size: 16221.3 KB)
+0007.372 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4200 files added (on-disk size: 16221.3 KB)
+0007.376 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4300 files added (on-disk size: 16221.3 KB)
+0007.380 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4400 files added (on-disk size: 16221.3 KB)
+0007.383 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4500 files added (on-disk size: 16221.3 KB)
+0007.385 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 6436 files batched, 501 (4509) added so far); re-opening (prior size: 16221.3 KB)
+0007.984 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4600 files added (on-disk size: 17574.9 KB)
+0007.988 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4700 files added (on-disk size: 17574.9 KB)
+0007.992 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4800 files added (on-disk size: 17574.9 KB)
+0007.996 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 4900 files added (on-disk size: 17574.9 KB)
+0008.000 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5000 files added (on-disk size: 17574.9 KB)
+0008.001 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.3 MB, 6436 files batched, 501 (5010) added so far); re-opening (prior size: 17574.9 KB)
+0008.676 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5100 files added (on-disk size: 19146.4 KB)
+0008.680 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5200 files added (on-disk size: 19146.4 KB)
+0008.684 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5300 files added (on-disk size: 19146.4 KB)
+0008.688 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5400 files added (on-disk size: 19146.4 KB)
+0008.693 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5500 files added (on-disk size: 19146.4 KB)
+0008.694 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4 MB, 6436 files batched, 501 (5511) added so far); re-opening (prior size: 19146.4 KB)
+0009.541 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: size is now: 22.40 MB
+0009.551 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5600 files added (on-disk size: 22984.9 KB)
+0009.556 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5700 files added (on-disk size: 22984.9 KB)
+0009.560 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5800 files added (on-disk size: 22984.9 KB)
+0009.564 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 5900 files added (on-disk size: 22984.9 KB)
+0009.568 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 6000 files added (on-disk size: 22984.9 KB)
+0009.569 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10 MB, 6436 files batched, 501 (6012) added so far); re-opening (prior size: 22984.9 KB)
+0010.724 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 6100 files added (on-disk size: 25358.7 KB)
+0010.728 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 6200 files added (on-disk size: 25358.7 KB)
+0010.732 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 6300 files added (on-disk size: 25358.7 KB)
+0010.736 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip.tmp: 6400 files added (on-disk size: 25358.7 KB)
+0012.042 (0) Created plugins zip (0) - 29325.6 KB in 11.9 s (2471.8 KB/s) (sha1: 1fc1b3148f50dbea6bed00e1c2e474c9c0b18343, sha256: 0e668e8156b52e6937313b7b0f0560a500e246b944f81c633e5b58a9096a5b2d)
+0012.045 (0) Beginning creation of dump of themes (split every: 400 MB)
+0012.130 (0) Total entities for the zip file: 156 directories, 1244 files (0 skipped as non-modified), 29.9 MB
+0012.134 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.138 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.141 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.145 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.149 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0012.149 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.1 MB, 1244 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0014.029 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: size is now: 8.00 MB
+0014.039 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 600 files added (on-disk size: 8223.2 KB)
+0014.045 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 700 files added (on-disk size: 8223.2 KB)
+0014.049 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 800 files added (on-disk size: 8223.2 KB)
+0014.053 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 900 files added (on-disk size: 8223.2 KB)
+0014.057 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 1000 files added (on-disk size: 8223.2 KB)
+0014.058 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.4 MB, 1244 files batched, 501 (1002) added so far); re-opening (prior size: 8223.2 KB)
+0014.980 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: size is now: 11.10 MB
+0014.989 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 1100 files added (on-disk size: 11350.2 KB)
+0014.995 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: 1200 files added (on-disk size: 11350.2 KB)
+0015.556 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip.tmp: size is now: 14.20 MB
+0015.735 (0) Created themes zip (0) - 14518 KB in 3.7 s (3935.9 KB/s) (sha1: 39f62a22ec55ffbd314b43cfa4d13325a81d9cab, sha256: c7f10523193ec6889cf1b29c11dfd9b42e0e048d58f62e387130c34b3f586a94)
+0015.737 (0) No backup of uploads: excluded by user's options
+0015.738 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.739 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0015.740 (0) Looking for candidates to back up in: /var/www/html/client_demo/smslocal/latestsmslocal/wp-content
+0015.740 (0) finding files: index.php: adding to list (1)
+0015.741 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0015.742 (0) finding files: upgrade: skipping: excluded by options
+0015.742 (0) finding files: plugins: skipping: this is the plugins directory
+0015.743 (0) finding files: updraft: skipping: this is the updraft directory
+0015.744 (0) finding files: uploads: skipping: this is the uploads directory
+0015.744 (0) finding files: revslider: adding to list (2)
+0015.745 (0) finding files: themes: skipping: this is the themes directory
+0015.966 (0) Total entities for the zip file: 111 directories, 2090 files (0 skipped as non-modified), 15.5 MB
+0015.970 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.974 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.978 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.981 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0015.985 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0015.986 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.1 MB, 2090 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0016.466 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: size is now: 0.60 MB
+0016.475 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 600 files added (on-disk size: 640.3 KB)
+0016.479 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 700 files added (on-disk size: 640.3 KB)
+0016.483 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 800 files added (on-disk size: 640.3 KB)
+0016.487 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 900 files added (on-disk size: 640.3 KB)
+0016.491 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1000 files added (on-disk size: 640.3 KB)
+0016.492 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 2090 files batched, 501 (1002) added so far); re-opening (prior size: 640.3 KB)
+0017.337 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: size is now: 1.90 MB
+0017.346 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1100 files added (on-disk size: 1986.4 KB)
+0017.354 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1200 files added (on-disk size: 1986.4 KB)
+0017.358 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1300 files added (on-disk size: 1986.4 KB)
+0017.362 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1400 files added (on-disk size: 1986.4 KB)
+0017.366 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1500 files added (on-disk size: 1986.4 KB)
+0017.367 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 2090 files batched, 501 (1503) added so far); re-opening (prior size: 1986.4 KB)
+0018.118 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: size is now: 4.60 MB
+0018.127 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1600 files added (on-disk size: 4720.5 KB)
+0018.134 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1700 files added (on-disk size: 4720.5 KB)
+0018.138 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1800 files added (on-disk size: 4720.5 KB)
+0018.142 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 1900 files added (on-disk size: 4720.5 KB)
+0018.146 (0) Zip: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: 2000 files added (on-disk size: 4720.5 KB)
+0018.147 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 2090 files batched, 501 (2004) added so far); re-opening (prior size: 4720.5 KB)
+0018.536 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip.tmp: size is now: 7.40 MB
+0018.934 (0) Created others zip (0) - 8129.1 KB in 3.2 s (2550.7 KB/s) (sha1: 9f76675f91e8afc849f86c529d096bf49fea87f0, sha256: 67b268bf96bd48fe7c75fb24aec6ae4b2fb600831f10527c8defa2a087e03643)
+0018.938 (0) Saving backup status to database (elements: 6)
+0018.942 (0) Beginning creation of database dump (WordPress DB)
+0018.944 (0) Testing: /usr/bin/mysqldump
+0019.028 (0) Binary mysqldump: error (code: 2)
+0019.158 (0) Table sml_wp_options: Total expected rows (approximate): 645
+0019.221 (0) Table sml_wp_options: Total rows added: 640 in 0.06 seconds
+0019.223 (0) Table sml_wp_options: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_options.table.gz - 228.1 KB)
+0019.227 (0) Table sml_wp_users: Total expected rows (approximate): 1
+0019.230 (0) Table sml_wp_users: Total rows added: 1 in 0.00 seconds
+0019.231 (0) Table sml_wp_users: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_users.table.gz - 0.6 KB)
+0019.235 (0) Table sml_wp_usermeta: Total expected rows (approximate): 26
+0019.239 (0) Table sml_wp_usermeta: Total rows added: 26 in 0.00 seconds
+0019.241 (0) Table sml_wp_usermeta: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_usermeta.table.gz - 2.3 KB)
+0019.246 (0) Table sml_wp_commentmeta: Total expected rows (approximate): 2
+0019.249 (0) Table sml_wp_commentmeta: Total rows added: 2 in 0.00 seconds
+0019.250 (0) Table sml_wp_commentmeta: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_commentmeta.table.gz - 0.4 KB)
+0019.255 (0) Table sml_wp_comments: Total expected rows (approximate): 1
+0019.259 (0) Table sml_wp_comments: Total rows added: 1 in 0.00 seconds
+0019.260 (0) Table sml_wp_comments: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_comments.table.gz - 0.7 KB)
+0019.265 (0) Table sml_wp_links: Total expected rows (approximate): 0
+0019.268 (0) Table sml_wp_links: Total rows added: 0 in 0.00 seconds
+0019.269 (0) Table sml_wp_links: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_links.table.gz - 0.4 KB)
+0019.274 (0) Table sml_wp_postmeta: Total expected rows (approximate): 1792
+0019.335 (0) Table sml_wp_postmeta: Total rows added: 1792 in 0.06 seconds
+0019.336 (0) Table sml_wp_postmeta: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_postmeta.table.gz - 29.2 KB)
+0019.339 (0) Table sml_wp_posts: Total expected rows (approximate): 234
+0019.369 (0) Table sml_wp_posts: Total rows added: 234 in 0.03 seconds
+0019.370 (0) Table sml_wp_posts: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_posts.table.gz - 25.5 KB)
+0019.373 (0) Table sml_wp_term_relationships: Total expected rows (approximate): 33
+0019.376 (0) Table sml_wp_term_relationships: Total rows added: 33 in 0.00 seconds
+0019.377 (0) Table sml_wp_term_relationships: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_term_relationships.table.gz - 0.5 KB)
+0019.380 (0) Table sml_wp_term_taxonomy: Total expected rows (approximate): 52
+0019.384 (0) Table sml_wp_term_taxonomy: Total rows added: 52 in 0.00 seconds
+0019.385 (0) Table sml_wp_term_taxonomy: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_term_taxonomy.table.gz - 0.8 KB)
+0019.390 (0) Table sml_wp_termmeta: Total expected rows (approximate): 102
+0019.396 (0) Table sml_wp_termmeta: Total rows added: 102 in 0.00 seconds
+0019.397 (0) Table sml_wp_termmeta: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_termmeta.table.gz - 0.9 KB)
+0019.402 (0) Table sml_wp_terms: Total expected rows (approximate): 52
+0019.406 (0) Table sml_wp_terms: Total rows added: 52 in 0.00 seconds
+0019.408 (0) Table sml_wp_terms: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_terms.table.gz - 1.1 KB)
+0019.412 (0) Table sml_wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0019.415 (0) Table sml_wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0019.416 (0) Table sml_wp_woocommerce_order_itemmeta: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0019.421 (0) Table sml_wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0019.423 (0) Table sml_wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0019.424 (0) Table sml_wp_woocommerce_payment_tokenmeta: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0019.429 (0) Table sml_wp_eg_grids: Total expected rows (approximate): 0
+0019.432 (0) Table sml_wp_eg_grids: Total rows added: 0 in 0.00 seconds
+0019.433 (0) Table sml_wp_eg_grids: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_grids.table.gz - 0.4 KB)
+0019.438 (0) Table sml_wp_eg_item_elements: Total expected rows (approximate): 0
+0019.440 (0) Table sml_wp_eg_item_elements: Total rows added: 0 in 0.00 seconds
+0019.441 (0) Table sml_wp_eg_item_elements: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_item_elements.table.gz - 0.3 KB)
+0019.446 (0) Table sml_wp_eg_item_skins: Total expected rows (approximate): 50
+0019.478 (0) Table sml_wp_eg_item_skins: Total rows added: 50 in 0.03 seconds
+0019.479 (0) Table sml_wp_eg_item_skins: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_item_skins.table.gz - 21.6 KB)
+0019.483 (0) Table sml_wp_eg_navigation_skins: Total expected rows (approximate): 8
+0019.487 (0) Table sml_wp_eg_navigation_skins: Total rows added: 8 in 0.00 seconds
+0019.488 (0) Table sml_wp_eg_navigation_skins: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_navigation_skins.table.gz - 3.4 KB)
+0019.492 (0) Table sml_wp_revslider_css: Total expected rows (approximate): 109
+0019.507 (0) Table sml_wp_revslider_css: Total rows added: 109 in 0.01 seconds
+0019.508 (0) Table sml_wp_revslider_css: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_css.table.gz - 4.8 KB)
+0019.512 (0) Table sml_wp_revslider_layer_animations: Total expected rows (approximate): 0
+0019.514 (0) Table sml_wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0019.515 (0) Table sml_wp_revslider_layer_animations: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_layer_animations.table.gz - 0.3 KB)
+0019.519 (0) Table sml_wp_revslider_navigations: Total expected rows (approximate): 0
+0019.521 (0) Table sml_wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0019.522 (0) Table sml_wp_revslider_navigations: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_navigations.table.gz - 0.3 KB)
+0019.526 (0) Table sml_wp_revslider_sliders: Total expected rows (approximate): 4
+0019.545 (0) Table sml_wp_revslider_sliders: Total rows added: 4 in 0.02 seconds
+0019.546 (0) Table sml_wp_revslider_sliders: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_sliders.table.gz - 3.7 KB)
+0019.549 (0) Table sml_wp_revslider_slides: Total expected rows (approximate): 6
+0019.554 (0) Table sml_wp_revslider_slides: Total rows added: 6 in 0.00 seconds
+0019.555 (0) Table sml_wp_revslider_slides: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_slides.table.gz - 7.4 KB)
+0019.559 (0) Table sml_wp_revslider_static_slides: Total expected rows (approximate): 0
+0019.562 (0) Table sml_wp_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0019.563 (0) Table sml_wp_revslider_static_slides: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_static_slides.table.gz - 0.3 KB)
+0019.567 (0) Table sml_wp_wc_download_log: Total expected rows (approximate): 0
+0019.570 (0) Table sml_wp_wc_download_log: Total rows added: 0 in 0.00 seconds
+0019.572 (0) Table sml_wp_wc_download_log: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_wc_download_log.table.gz - 0.4 KB)
+0019.576 (0) Table sml_wp_wc_webhooks: Total expected rows (approximate): 0
+0019.579 (0) Table sml_wp_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0019.581 (0) Table sml_wp_wc_webhooks: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_wc_webhooks.table.gz - 0.5 KB)
+0019.611 (0) Table sml_wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0019.614 (0) Table sml_wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0019.615 (0) Table sml_wp_woocommerce_api_keys: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0019.620 (0) Table sml_wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 1
+0019.623 (0) Table sml_wp_woocommerce_attribute_taxonomies: Total rows added: 1 in 0.00 seconds
+0019.624 (0) Table sml_wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0019.629 (0) Table sml_wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0019.632 (0) Table sml_wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0019.633 (0) Table sml_wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0019.638 (0) Table sml_wp_woocommerce_log: Total expected rows (approximate): 0
+0019.641 (0) Table sml_wp_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0019.642 (0) Table sml_wp_woocommerce_log: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_log.table.gz - 0.4 KB)
+0019.647 (0) Table sml_wp_woocommerce_order_items: Total expected rows (approximate): 0
+0019.649 (0) Table sml_wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0019.651 (0) Table sml_wp_woocommerce_order_items: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_order_items.table.gz - 0.4 KB)
+0019.655 (0) Table sml_wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0019.658 (0) Table sml_wp_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0019.659 (0) Table sml_wp_woocommerce_payment_tokens: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0019.664 (0) Table sml_wp_woocommerce_sessions: Total expected rows (approximate): 1
+0019.667 (0) Table sml_wp_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0019.668 (0) Table sml_wp_woocommerce_sessions: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_sessions.table.gz - 1.3 KB)
+0019.673 (0) Table sml_wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0019.675 (0) Table sml_wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0019.677 (0) Table sml_wp_woocommerce_shipping_zone_locations: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0019.681 (0) Table sml_wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 1
+0019.684 (0) Table sml_wp_woocommerce_shipping_zone_methods: Total rows added: 1 in 0.00 seconds
+0019.686 (0) Table sml_wp_woocommerce_shipping_zone_methods: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0019.690 (0) Table sml_wp_woocommerce_shipping_zones: Total expected rows (approximate): 1
+0019.693 (0) Table sml_wp_woocommerce_shipping_zones: Total rows added: 1 in 0.00 seconds
+0019.694 (0) Table sml_wp_woocommerce_shipping_zones: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0019.699 (0) Table sml_wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0019.701 (0) Table sml_wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0019.703 (0) Table sml_wp_woocommerce_tax_rate_locations: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0019.707 (0) Table sml_wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0019.710 (0) Table sml_wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0019.711 (0) Table sml_wp_woocommerce_tax_rates: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0019.716 (0) Table sml_wp_woof_query_cache: Total expected rows (approximate): 0
+0019.718 (0) Table sml_wp_woof_query_cache: Total rows added: 0 in 0.00 seconds
+0019.719 (0) Table sml_wp_woof_query_cache: finishing file (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woof_query_cache.table.gz - 0.3 KB)
+0019.722 (0) Skipping table (lacks our prefix (sml_wp_)): wp_commentmeta
+0019.723 (0) Skipping table (lacks our prefix (sml_wp_)): wp_comments
+0019.724 (0) Skipping table (lacks our prefix (sml_wp_)): wp_eg_grids
+0019.725 (0) Skipping table (lacks our prefix (sml_wp_)): wp_eg_item_elements
+0019.726 (0) Skipping table (lacks our prefix (sml_wp_)): wp_eg_item_skins
+0019.726 (0) Skipping table (lacks our prefix (sml_wp_)): wp_eg_navigation_skins
+0019.727 (0) Skipping table (lacks our prefix (sml_wp_)): wp_links
+0019.728 (0) Skipping table (lacks our prefix (sml_wp_)): wp_options
+0019.729 (0) Skipping table (lacks our prefix (sml_wp_)): wp_postmeta
+0019.730 (0) Skipping table (lacks our prefix (sml_wp_)): wp_posts
+0019.731 (0) Skipping table (lacks our prefix (sml_wp_)): wp_revslider_css
+0019.732 (0) Skipping table (lacks our prefix (sml_wp_)): wp_revslider_layer_animations
+0019.733 (0) Skipping table (lacks our prefix (sml_wp_)): wp_revslider_navigations
+0019.734 (0) Skipping table (lacks our prefix (sml_wp_)): wp_revslider_sliders
+0019.735 (0) Skipping table (lacks our prefix (sml_wp_)): wp_revslider_slides
+0019.736 (0) Skipping table (lacks our prefix (sml_wp_)): wp_revslider_static_slides
+0019.736 (0) Skipping table (lacks our prefix (sml_wp_)): wp_term_relationships
+0019.737 (0) Skipping table (lacks our prefix (sml_wp_)): wp_term_taxonomy
+0019.738 (0) Skipping table (lacks our prefix (sml_wp_)): wp_termmeta
+0019.739 (0) Skipping table (lacks our prefix (sml_wp_)): wp_terms
+0019.740 (0) Skipping table (lacks our prefix (sml_wp_)): wp_usermeta
+0019.741 (0) Skipping table (lacks our prefix (sml_wp_)): wp_users
+0019.742 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_api_keys
+0019.743 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_attribute_taxonomies
+0019.744 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_downloadable_product_permissions
+0019.745 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_log
+0019.746 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_order_itemmeta
+0019.746 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_order_items
+0019.747 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_payment_tokenmeta
+0019.748 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_payment_tokens
+0019.749 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_sessions
+0019.750 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_shipping_zone_locations
+0019.751 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_shipping_zone_methods
+0019.752 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_shipping_zones
+0019.753 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_tax_rate_locations
+0019.754 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woocommerce_tax_rates
+0019.755 (0) Skipping table (lacks our prefix (sml_wp_)): wp_woof_query_cache
+0019.757 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_options.table.gz (1/76): adding to final database dump
+0019.795 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_users.table.gz (2/76): adding to final database dump
+0019.796 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_usermeta.table.gz (3/76): adding to final database dump
+0019.798 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_commentmeta.table.gz (4/76): adding to final database dump
+0019.799 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_comments.table.gz (5/76): adding to final database dump
+0019.799 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_links.table.gz (6/76): adding to final database dump
+0019.800 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_postmeta.table.gz (7/76): adding to final database dump
+0019.816 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_posts.table.gz (8/76): adding to final database dump
+0019.824 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_term_relationships.table.gz (9/76): adding to final database dump
+0019.825 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_term_taxonomy.table.gz (10/76): adding to final database dump
+0019.826 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_termmeta.table.gz (11/76): adding to final database dump
+0019.827 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_terms.table.gz (12/76): adding to final database dump
+0019.829 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_order_itemmeta.table.gz (13/76): adding to final database dump
+0019.830 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_payment_tokenmeta.table.gz (14/76): adding to final database dump
+0019.830 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_grids.table.gz (15/76): adding to final database dump
+0019.831 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_item_elements.table.gz (16/76): adding to final database dump
+0019.832 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_item_skins.table.gz (17/76): adding to final database dump
+0019.844 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_eg_navigation_skins.table.gz (18/76): adding to final database dump
+0019.846 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_css.table.gz (19/76): adding to final database dump
+0019.849 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_layer_animations.table.gz (20/76): adding to final database dump
+0019.850 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_navigations.table.gz (21/76): adding to final database dump
+0019.851 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_sliders.table.gz (22/76): adding to final database dump
+0019.853 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_slides.table.gz (23/76): adding to final database dump
+0019.856 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_revslider_static_slides.table.gz (24/76): adding to final database dump
+0019.857 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_wc_download_log.table.gz (25/76): adding to final database dump
+0019.858 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_wc_webhooks.table.gz (26/76): adding to final database dump
+0019.859 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_api_keys.table.gz (27/76): adding to final database dump
+0019.860 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_attribute_taxonomies.table.gz (28/76): adding to final database dump
+0019.861 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_downloadable_product_permissions.table.gz (29/76): adding to final database dump
+0019.862 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_log.table.gz (30/76): adding to final database dump
+0019.863 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_order_items.table.gz (31/76): adding to final database dump
+0019.864 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_payment_tokens.table.gz (32/76): adding to final database dump
+0019.864 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_sessions.table.gz (33/76): adding to final database dump
+0019.865 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_shipping_zone_locations.table.gz (34/76): adding to final database dump
+0019.866 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_shipping_zone_methods.table.gz (35/76): adding to final database dump
+0019.867 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_shipping_zones.table.gz (36/76): adding to final database dump
+0019.868 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_tax_rate_locations.table.gz (37/76): adding to final database dump
+0019.869 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woocommerce_tax_rates.table.gz (38/76): adding to final database dump
+0019.870 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db-table-sml_wp_woof_query_cache.table.gz (39/76): adding to final database dump
+0019.871 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db.gz: finished writing out complete database file (320 KB)
+0019.880 (0) Total database tables backed up: 39 (backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db.gz, size: 339660, sha256)
+0019.888 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.889 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.890 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.891 (0) backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.891 (0) Saving backup history. Total backup size: 51.1 MB
+0019.895 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0019.898 (0) Cloud backup selection (1/1):  with instance (1/1) (last)
+0019.899 (0) No remote despatch: user chose no remote backup service
+0019.901 (0) Recording as successfully uploaded: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-plugins.zip (4077f2b7aa95b74aa1a72555138804d9)
+0019.906 (0) Recording as successfully uploaded: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-themes.zip (e425d5258b2d2ccc29724656fcaff1bb)
+0019.910 (0) Recording as successfully uploaded: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-others.zip (f67a024028a11d6cadd2368a4e74ff3f)
+0019.914 (0) Recording as successfully uploaded: backup_2018-02-18-0555_Show_Marketing_System_2807b47f472c-db.gz (9f6d0cb959bf63706f8124e6f5f92e8d)
+0019.918 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=11
+0019.919 (0) Number of backup sets in history: 5; groups (db): 1
+0019.920 (0) Examining (for databases) backup set with group_id=0, nonce=2807b47f472c, datestamp=1518933332 (Feb 18 2018 05:55:32)
+0019.921 (0) This backup set is the backup set just made, so will not be deleted.
+0019.921 (0) Examining (for databases) backup set with group_id=0, nonce=0cd248536c14, datestamp=1518800957 (Feb 16 2018 17:09:17)
+0019.921 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.922 (0) Examining (for databases) backup set with group_id=0, nonce=b649ec5a3293, datestamp=1518714000 (Feb 15 2018 17:00:00)
+0019.922 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.923 (0) Examining (for databases) backup set with group_id=0, nonce=88f5f60082bc, datestamp=1518630438 (Feb 14 2018 17:47:18)
+0019.923 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.924 (0) Examining (for databases) backup set with group_id=0, nonce=2ae3ac4c78dc, datestamp=1518576189 (Feb 14 2018 02:43:09)
+0019.924 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.924 (0) Number of backup sets in history: 5; groups (files): 1
+0019.925 (0) Examining (for files) backup set with nonce=2807b47f472c, datestamp=1518933332 (Feb 18 2018 05:55:32)
+0019.925 (0) This backup set is the backup set just made, so will not be deleted.
+0019.926 (0) This backup set is the backup set just made, so will not be deleted.
+0019.926 (0) This backup set is the backup set just made, so will not be deleted.
+0019.926 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.927 (0) Examining (for files) backup set with nonce=0cd248536c14, datestamp=1518800957 (Feb 16 2018 17:09:17)
+0019.927 (0) plugins: over retain limit (1); will delete this file entity
+0019.927 (0) themes: over retain limit (1); will delete this file entity
+0019.927 (0) others: over retain limit (1); will delete this file entity
+0019.927 (0) Delete file: backup_2018-02-16-1709_Show_Marketing_System_0cd248536c14-plugins.zip, service=none
+0019.928 (0) Deleting local copy (backup_2018-02-16-1709_Show_Marketing_System_0cd248536c14-plugins.zip)
+0019.954 (0) Delete file: backup_2018-02-16-1709_Show_Marketing_System_0cd248536c14-themes.zip, service=none
+0019.955 (0) Deleting local copy (backup_2018-02-16-1709_Show_Marketing_System_0cd248536c14-themes.zip)
+0019.968 (0) Delete file: backup_2018-02-16-1709_Show_Marketing_System_0cd248536c14-others.zip, service=none
+0019.969 (0) Deleting local copy (backup_2018-02-16-1709_Show_Marketing_System_0cd248536c14-others.zip)
+0019.971 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.972 (0) Examining (for files) backup set with nonce=b649ec5a3293, datestamp=1518714000 (Feb 15 2018 17:00:00)
+0019.972 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.972 (0) Examining (for files) backup set with nonce=88f5f60082bc, datestamp=1518630438 (Feb 14 2018 17:47:18)
+0019.972 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.972 (0) Examining (for files) backup set with nonce=2ae3ac4c78dc, datestamp=1518576189 (Feb 14 2018 02:43:09)
+0019.972 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.972 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0019.977 (0) Resume backup (2807b47f472c, 0): finish run
+0019.978 (0) Decremented the semaphore (fd) by 1
+0019.980 (0) Semaphore (fd) unlocked
+0019.980 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0019.984 (0) No email will/can be sent - the user has not configured an email address.
+0019.985 (0) The backup apparently succeeded and is now complete

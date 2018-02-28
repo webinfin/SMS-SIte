@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="121px" viewBox="0 0 100 121" enable-background="new 0 0 100 121" xml:space="preserve">
+<path fill="none" stroke="#233850" stroke-width="3" stroke-miterlimit="10" d="M78.693,50.921v61.095
+	c0,3.067-2.485,5.553-5.553,5.553H24.982c-3.061,0-5.546-2.484-5.546-5.553V83.384"/>
+<path fill="none" stroke="#233850" stroke-width="3" stroke-miterlimit="10" d="M19.436,57.311V9.362
+	c0-3.067,2.486-5.547,5.546-5.547h48.159c3.066,0,5.553,2.48,5.553,5.547v15.492"/>
+<line fill="none" stroke="#233850" stroke-width="3" stroke-miterlimit="10" x1="78.693" y1="103.43" x2="19.428" y2="103.43"/>
+<line fill="none" stroke="#233850" stroke-width="3" stroke-miterlimit="10" x1="19.428" y1="14.076" x2="78.693" y2="14.076"/>
+<polygon fill="none" stroke="#05A8C9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="3.552,83.384 
+	32.143,83.384 45.244,91.381 45.118,83.384 50.596,83.384 50.596,57.313 3.552,57.313 "/>
+<g enable-background="new    ">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="8.388" y="62.997" width="36.302" height="17.073"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_2_)">
+				<text transform="matrix(1 0 0 1 8.3896 75.7598)" fill="#05A8C9" font-family="'Lato-Heavy'" font-size="14.7918">MMS</text>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon fill="none" stroke="#05A8C9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="97.639,50.919 
+	69.055,50.919 55.947,58.915 56.072,50.919 50.596,50.919 50.596,24.853 97.639,24.853 "/>
+<g enable-background="new    ">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="59.289" y="30.535" width="30.375" height="17.073"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_4_)">
+				<text transform="matrix(1 0 0 1 59.2881 43.2939)" fill="#05A8C9" font-family="'Lato-Heavy'" font-size="14.7918">SMS</text>
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#233850" stroke-width="3" stroke-miterlimit="10" x1="41.741" y1="110.258" x2="56.342" y2="110.258"/>
+</svg>

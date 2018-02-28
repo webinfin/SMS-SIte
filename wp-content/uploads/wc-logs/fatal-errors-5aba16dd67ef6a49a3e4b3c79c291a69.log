@@ -1,0 +1,189 @@
+2018-01-31T09:30:57+00:00 CRITICAL Uncaught Error: Call to a member function get_shipping_class() on null in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/woocommerce/content-product.php:159
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/template.php(690): require()
+#1 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home/webtegy7/...', false)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/woocommerce-products-filter/index.php(2104): wc_get_template_part('content', 'product')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): WOOF->woof_products(Array, '', 'woof_products')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(woof_p...', 'do_shortcode_ta...
+
+2018-01-31T09:31:22+00:00 CRITICAL Uncaught Error: Call to a member function get_shipping_class() on null in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/woocommerce/content-product.php:159
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/template.php(690): require()
+#1 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home/webtegy7/...', false)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/woocommerce-products-filter/index.php(2104): wc_get_template_part('content', 'product')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): WOOF->woof_products(Array, '', 'woof_products')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(woof_p...', 'do_shortcode_ta...
+
+2018-01-31T09:32:31+00:00 CRITICAL Uncaught Error: Call to a member function get_shipping_class() on null in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/woocommerce/content-product.php:160
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/template.php(690): require()
+#1 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home/webtegy7/...', false)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/woocommerce-products-filter/index.php(2104): wc_get_template_part('content', 'product')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): WOOF->woof_products(Array, '', 'woof_products')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(woof_p...', 'do_shortcode_ta...
+
+2018-02-01T10:39:02+00:00 CRITICAL Uncaught Error: Call to undefined function wpds_tax_pic_url() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/functions.php:94
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): teamdet_shortcode('', '', 'Our_teamdetail')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(Our_te...', 'do_shortcode_ta...', '[Our_teamdetail...')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): do_shortcode('[Our_teamdetail...')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(203): WP_Hook->apply_filters('[Our_teamdetail...', Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/post-template.php(240): apply_filters('the_content', '[Our_teamdetail...')
+#6 /home/webtegy7/public_ht
+
+2018-02-01T10:40:57+00:00 CRITICAL Uncaught Error: Call to undefined function wpds_tax_pic_url() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/functions.php:95
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): teamdet_shortcode('', '', 'Our_teamdetail')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(Our_te...', 'do_shortcode_ta...', '[Our_teamdetail...')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): do_shortcode('[Our_teamdetail...')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(203): WP_Hook->apply_filters('[Our_teamdetail...', Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/post-template.php(240): apply_filters('the_content', '[Our_teamdetail...')
+#6 /home/webtegy7/public_ht
+
+2018-02-01T10:44:11+00:00 CRITICAL Uncaught Error: Call to undefined function wpds_tax_pic_url() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/functions.php:95
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): teamdet_shortcode('', '', 'Our_teamdetail')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(Our_te...', 'do_shortcode_ta...', '[Our_teamdetail...')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): do_shortcode('[Our_teamdetail...')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(203): WP_Hook->apply_filters('[Our_teamdetail...', Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/post-template.php(240): apply_filters('the_content', '[Our_teamdetail...')
+#6 /home/webtegy7/public_ht
+
+2018-02-01T10:44:30+00:00 CRITICAL Uncaught Error: Call to undefined function wpds_tax_pic_url() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/functions.php:95
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): teamdet_shortcode('', '', 'Our_teamdetail')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(Our_te...', 'do_shortcode_ta...', '[Our_teamdetail...')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): do_shortcode('[Our_teamdetail...')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(203): WP_Hook->apply_filters('[Our_teamdetail...', Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/post-template.php(240): apply_filters('the_content', '[Our_teamdetail...')
+#6 /home/webtegy7/public_ht
+
+2018-02-02T07:08:38+00:00 CRITICAL Uncaught Error: Call to undefined function wpds_tax_pic_url() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/functions.php:94
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): teamdet_shortcode('', '', 'Our_teamdetail')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(Our_te...', 'do_shortcode_ta...', '[Our_teamdetail...')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): do_shortcode('[Our_teamdetail...')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(203): WP_Hook->apply_filters('[Our_teamdetail...', Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/post-template.php(240): apply_filters('the_content', '[Our_teamdetail...')
+#6 /home/webtegy7/public_ht
+
+2018-02-02T07:09:20+00:00 CRITICAL Uncaught Error: Call to undefined function wpds_tax_pic_url() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/functions.php:94
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(345): teamdet_shortcode('', '', 'Our_teamdetail')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(Our_te...', 'do_shortcode_ta...', '[Our_teamdetail...')
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): do_shortcode('[Our_teamdetail...')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(203): WP_Hook->apply_filters('[Our_teamdetail...', Array)
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/post-template.php(240): apply_filters('the_content', '[Our_teamdetail...')
+#6 /home/webtegy7/public_ht
+
+2018-02-02T14:13:15+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP-child/page-productfilter.php:42
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/template-loader.php(74): include()
+#1 /home/webtegy7/public_html/Development/show-marketing-system/wp-blog-header.php(19): require_once('/home/webtegy7/...')
+#2 /home/webtegy7/public_html/Development/show-marketing-system/index.php(17): require('/home/webtegy7/...')
+#3 {main}
+  thrown
+
+2018-02-06T06:32:27+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_url() on null in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP/includes/hb-woocommerce.php:260
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): hb_woo_notifications('')
+#1 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/general-template.php(2605): do_action('wp_footer')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/ml-slider/ml-slider.php(414): wp_footer()
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): MetaSliderPlugin->do_preview('')
+#6 /home/webtegy7/public_html/Development/show-market
+
+2018-02-06T06:32:47+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_url() on null in /home/webtegy7/public_html/Development/show-marketing-system/wp-content/themes/HighendWP/includes/hb-woocommerce.php:260
+Stack trace:
+#0 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): hb_woo_notifications('')
+#1 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/general-template.php(2605): do_action('wp_footer')
+#4 /home/webtegy7/public_html/Development/show-marketing-system/wp-content/plugins/ml-slider/ml-slider.php(414): wp_footer()
+#5 /home/webtegy7/public_html/Development/show-marketing-system/wp-includes/class-wp-hook.php(298): MetaSliderPlugin->do_preview('')
+#6 /home/webtegy7/public_html/Development/show-market
+
+2018-02-12T09:39:54+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 262400 bytes)
+
+2018-02-12T14:06:09+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 709131 bytes)
+
+2018-02-12T14:09:46+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:09:49+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:09:59+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:10:17+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:10:31+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:10:43+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:10:59+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:11:12+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:11:27+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:11:44+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:12:03+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:12:23+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:12:42+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:13:22+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:13:33+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:13:38+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:13:51+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:14:08+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:17:34+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:17:40+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:17:50+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:18:01+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:18:17+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:18:31+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:18:45+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:18:59+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:19:12+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:19:30+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:19:52+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:20:09+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:20:32+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:20:49+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:21:11+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:21:35+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+
+2018-02-12T14:22:00+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 512001 bytes)
+

@@ -1,0 +1,172 @@
+0000.000 (0) Opened log file at time: Mon, 12 Feb 2018 10:15:42 +0000 on http://portfoliopreview.net/Development/show-marketing-system
+0000.002 (0) [Warning] The amount of memory (RAM) allowed for PHP is very low (64 Mb) - you should increase it to avoid failures due to insufficient memory (consult your web hosting company for more help)
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.33 (litespeed, ) MySQL: 5.6.36 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 30 memory_limit: 64M (used: 54M | 55.3M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.487 (0) Free space on disk containing Updraft's temporary directory: 2179683.7 MB
+0000.489 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.490 (0) Semaphore (fd, wp_options) being initialised
+0000.492 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.494 (0) Set semaphore last lock (fd) time to 2018-02-12 10:15:43
+0000.494 (0) Semaphore lock (fd) complete
+0000.497 (0) Backup run: resumption=0, nonce=3bf1fff20e1a, begun at=1518430542 (1s ago), job type=backup
+0000.499 (0) Scheduling a resumption (1) after 300 seconds (1518430843) in case this run gets aborted
+0000.505 (0) Checking if we have a zip executable available
+0000.586 (0) Creation of backups of directories: beginning
+0000.588 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.586 (0) Total entities for the zip file: 923 directories, 6435 files (0 skipped as non-modified), 80.9 MB
+0001.687 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.695 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.704 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.793 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.802 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.803 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11 MB, 6435 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0036.195 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 600 files added (on-disk size: 4125.4 KB)
+0036.203 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 700 files added (on-disk size: 4125.4 KB)
+0036.293 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 800 files added (on-disk size: 4125.4 KB)
+0036.302 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 900 files added (on-disk size: 4125.4 KB)
+0036.396 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1000 files added (on-disk size: 4125.4 KB)
+0036.397 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.9 MB, 6435 files batched, 501 (1002) added so far); re-opening (prior size: 4125.4 KB)
+0053.189 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1100 files added (on-disk size: 6851 KB)
+0053.287 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1200 files added (on-disk size: 6851 KB)
+0053.299 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1300 files added (on-disk size: 6851 KB)
+0053.390 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1400 files added (on-disk size: 6851 KB)
+0053.404 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1500 files added (on-disk size: 6851 KB)
+0053.486 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 6435 files batched, 501 (1503) added so far); re-opening (prior size: 6851 KB)
+0068.898 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1600 files added (on-disk size: 7531.1 KB)
+0069.099 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1700 files added (on-disk size: 7531.1 KB)
+0069.293 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1800 files added (on-disk size: 7531.1 KB)
+0069.502 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1900 files added (on-disk size: 7531.1 KB)
+0069.696 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2000 files added (on-disk size: 7531.1 KB)
+0069.790 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.7 MB, 6435 files batched, 501 (2004) added so far); re-opening (prior size: 7531.1 KB)
+0101.691 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2100 files added (on-disk size: 11704.9 KB)
+0101.891 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2200 files added (on-disk size: 11704.9 KB)
+0102.100 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2300 files added (on-disk size: 11704.9 KB)
+0102.296 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2400 files added (on-disk size: 11704.9 KB)
+0102.593 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2500 files added (on-disk size: 11704.9 KB)
+0102.603 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.3 MB, 6435 files batched, 501 (2505) added so far); re-opening (prior size: 11704.9 KB)
+0123.291 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2600 files added (on-disk size: 12530.4 KB)
+0123.891 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2700 files added (on-disk size: 12530.4 KB)
+0124.086 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2800 files added (on-disk size: 12530.4 KB)
+0124.201 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2900 files added (on-disk size: 12530.4 KB)
+0124.395 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3000 files added (on-disk size: 12530.4 KB)
+0124.487 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 MB, 6435 files batched, 501 (3006) added so far); re-opening (prior size: 12530.4 KB)
+0152.992 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3100 files added (on-disk size: 13648.2 KB)
+0153.192 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3200 files added (on-disk size: 13648.2 KB)
+0153.294 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3300 files added (on-disk size: 13648.2 KB)
+0153.395 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3400 files added (on-disk size: 13648.2 KB)
+0153.494 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3500 files added (on-disk size: 13648.2 KB)
+0153.496 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 6435 files batched, 501 (3507) added so far); re-opening (prior size: 13648.2 KB)
+0185.605 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3600 files added (on-disk size: 15889.1 KB)
+0185.704 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3700 files added (on-disk size: 15889.1 KB)
+0185.803 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3800 files added (on-disk size: 15889.1 KB)
+0185.902 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3900 files added (on-disk size: 15889.1 KB)
+0186.002 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4000 files added (on-disk size: 15889.1 KB)
+0186.004 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.1 MB, 6435 files batched, 501 (4008) added so far); re-opening (prior size: 15889.1 KB)
+0224.502 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4100 files added (on-disk size: 18910.1 KB)
+0224.602 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4200 files added (on-disk size: 18910.1 KB)
+0224.702 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4300 files added (on-disk size: 18910.1 KB)
+0224.886 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4400 files added (on-disk size: 18910.1 KB)
+0224.987 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4500 files added (on-disk size: 18910.1 KB)
+0224.990 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.4 MB, 6435 files batched, 501 (4509) added so far); re-opening (prior size: 18910.1 KB)
+0271.242 (0) The time we have been running (271.2) is approaching the resumption interval (300) - increasing resumption interval to 302
+0271.265 (0) The scheduled resumption is within 45 seconds - will reschedule
+0271.267 (0) Rescheduling resumption 1: moving to 347 seconds from now (1518431160)
+0271.269 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 302 + 45 = 347
+0271.389 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4600 files added (on-disk size: 20632.4 KB)
+0271.491 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4700 files added (on-disk size: 20632.4 KB)
+0271.594 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4800 files added (on-disk size: 20632.4 KB)
+0271.701 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4900 files added (on-disk size: 20632.4 KB)
+0271.803 (0) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5000 files added (on-disk size: 20632.4 KB)
+0271.887 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 6435 files batched, 501 (5010) added so far); re-opening (prior size: 20632.4 KB)
+0811.186 (1) Opened log file at time: Mon, 12 Feb 2018 10:29:13 +0000 on http://portfoliopreview.net/Development/show-marketing-system
+0811.187 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.33 (litespeed, ) MySQL: 5.6.36 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 30 memory_limit: 64M (used: 41.6M | 42.3M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0811.599 (1) Free space on disk containing Updraft's temporary directory: 2179081 MB
+0811.601 (1) Backup run: resumption=1, nonce=3bf1fff20e1a, begun at=1518430542 (812s ago), job type=backup, previous check-in=271.2s
+0811.603 (1) Scheduling a resumption (2) after 347 seconds (1518431701) in case this run gets aborted
+0811.698 (1) Checking if we have a zip executable available
+0811.699 (1) Creation of backups of directories: had begun; will resume
+0811.701 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0811.702 (1) File exists (/home/portfoliopreview/public_html/Development/show-marketing-system/wp-content/updraft/backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1518430814, time_now=1518431354, diff=540)
+0813.299 (1) backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: Zip file already exists, with 5432 files
+0814.201 (1) Total entities for the zip file: 923 directories, 6435 files (0 skipped as non-modified), 80.9 MB
+0814.392 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 100 files added (on-disk size: 20632.4 KB)
+0814.393 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 200 files added (on-disk size: 20632.4 KB)
+0814.394 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 300 files added (on-disk size: 20632.4 KB)
+0814.396 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 400 files added (on-disk size: 20632.4 KB)
+0814.397 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 500 files added (on-disk size: 20632.4 KB)
+0814.398 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 600 files added (on-disk size: 20632.4 KB)
+0814.399 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 700 files added (on-disk size: 20632.4 KB)
+0814.400 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 800 files added (on-disk size: 20632.4 KB)
+0814.401 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 900 files added (on-disk size: 20632.4 KB)
+0814.402 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1000 files added (on-disk size: 20632.4 KB)
+0814.405 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1100 files added (on-disk size: 20632.4 KB)
+0814.486 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1200 files added (on-disk size: 20632.4 KB)
+0814.487 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1300 files added (on-disk size: 20632.4 KB)
+0814.489 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1400 files added (on-disk size: 20632.4 KB)
+0814.490 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1500 files added (on-disk size: 20632.4 KB)
+0814.491 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1600 files added (on-disk size: 20632.4 KB)
+0814.492 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1700 files added (on-disk size: 20632.4 KB)
+0814.494 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1800 files added (on-disk size: 20632.4 KB)
+0814.495 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 1900 files added (on-disk size: 20632.4 KB)
+0814.496 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2000 files added (on-disk size: 20632.4 KB)
+0814.498 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2100 files added (on-disk size: 20632.4 KB)
+0814.499 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2200 files added (on-disk size: 20632.4 KB)
+0814.500 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2300 files added (on-disk size: 20632.4 KB)
+0814.501 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2400 files added (on-disk size: 20632.4 KB)
+0814.503 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2500 files added (on-disk size: 20632.4 KB)
+0814.504 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2600 files added (on-disk size: 20632.4 KB)
+0814.505 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2700 files added (on-disk size: 20632.4 KB)
+0814.506 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2800 files added (on-disk size: 20632.4 KB)
+0814.586 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 2900 files added (on-disk size: 20632.4 KB)
+0814.587 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3000 files added (on-disk size: 20632.4 KB)
+0814.590 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3100 files added (on-disk size: 20632.4 KB)
+0814.591 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3200 files added (on-disk size: 20632.4 KB)
+0814.592 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3300 files added (on-disk size: 20632.4 KB)
+0814.593 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3400 files added (on-disk size: 20632.4 KB)
+0814.594 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3500 files added (on-disk size: 20632.4 KB)
+0814.595 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3600 files added (on-disk size: 20632.4 KB)
+0814.596 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3700 files added (on-disk size: 20632.4 KB)
+0814.597 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3800 files added (on-disk size: 20632.4 KB)
+0814.598 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 3900 files added (on-disk size: 20632.4 KB)
+0814.600 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4000 files added (on-disk size: 20632.4 KB)
+0814.602 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4100 files added (on-disk size: 20632.4 KB)
+0814.603 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4200 files added (on-disk size: 20632.4 KB)
+0814.604 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4300 files added (on-disk size: 20632.4 KB)
+0814.605 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4400 files added (on-disk size: 20632.4 KB)
+0814.686 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4500 files added (on-disk size: 20632.4 KB)
+0814.705 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4600 files added (on-disk size: 20632.4 KB)
+0814.886 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4700 files added (on-disk size: 20632.4 KB)
+0814.988 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4800 files added (on-disk size: 20632.4 KB)
+0815.092 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 4900 files added (on-disk size: 20632.4 KB)
+0815.290 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5000 files added (on-disk size: 20632.4 KB)
+0815.305 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 6435 files batched, 501 (501) added so far); re-opening (prior size: 20632.4 KB)
+0818.202 (1) Opened log file at time: Mon, 12 Feb 2018 10:29:20 +0000 on http://portfoliopreview.net/Development/show-marketing-system
+0818.387 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.33 (litespeed, ) MySQL: 5.6.36 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 30 memory_limit: 64M (used: 54M | 55.5M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0819.286 (1) Free space on disk containing Updraft's temporary directory: 2179079.2 MB
+0819.377 (1) Backup run: resumption=1, nonce=3bf1fff20e1a, begun at=1518430542 (820s ago), job type=backup, previous check-in=271.2s
+0819.626 (1) Scheduling a resumption (2) after 347 seconds (1518431709) in case this run gets aborted
+0819.883 (1) Checking if we have a zip executable available
+0820.126 (1) Creation of backups of directories: had begun; will resume
+0832.288 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0832.296 (1) Terminate: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1518431357, time_now=1518431374, diff=17, size=20632.4KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0832.297 (1) Rescheduling resumption 2: moving to 467 seconds from now (1518431841)
+0832.302 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 347 + 120 = 467
+0920.402 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5100 files added (on-disk size: 22729.6 KB)
+0920.597 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5200 files added (on-disk size: 22729.6 KB)
+0921.196 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5300 files added (on-disk size: 22729.6 KB)
+0921.396 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5400 files added (on-disk size: 22729.6 KB)
+0921.502 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5500 files added (on-disk size: 22729.6 KB)
+0921.586 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 6435 files batched, 501 (1002) added so far); re-opening (prior size: 22729.6 KB)
+0969.087 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5600 files added (on-disk size: 24548.3 KB)
+0969.192 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5700 files added (on-disk size: 24548.3 KB)
+0969.301 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5800 files added (on-disk size: 24548.3 KB)
+0969.401 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 5900 files added (on-disk size: 24548.3 KB)
+0969.589 (1) Zip: backup_2018-02-12-1015_Show_Marketing_System_3bf1fff20e1a-plugins.zip.tmp: 6000 files added (on-disk size: 24548.3 KB)
+0969.595 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.6 MB, 6435 files batched, 501 (1503) added so far); re-opening (prior size: 24548.3 KB)
+1032.898 (1) User request for abort: backup job will be immediately halted
+1032.900 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+1032.987 (1) No email will/can be sent - the user has not configured an email address.
+1033.002 (1) The backup was aborted by the user
+0000.000 (2) Opened log file at time: Mon, 12 Feb 2018 10:37:50 +0000 on http://portfoliopreview.net/Development/show-marketing-system
+0000.001 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.33 (litespeed, ) MySQL: 5.6.36 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 30 memory_limit: 64M (used: 41.5M | 42.3M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.502 (2) Free space on disk containing Updraft's temporary directory: 2177591.2 MB
+0000.503 (2) This backup task (3bf1fff20e1a) is either complete or began over 2 days ago: ending (1518431870.4903, ) (existing jobdata keys: )
